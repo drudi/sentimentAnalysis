@@ -1,0 +1,1 @@
+Entidade que presta servico de recolocacao profissional no Mercado de trabalho.

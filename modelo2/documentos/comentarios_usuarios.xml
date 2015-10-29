@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">id_comentario</Data></Cell>
+			<Cell><Data ss:Type="String">comentario_usuario</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1431348</Data></Cell>
+			<Cell><Data ss:Type="String">nenhum</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2926799</Data></Cell>
+			<Cell><Data ss:Type="String">Prefiro não opinar.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1238456</Data></Cell>
+			<Cell><Data ss:Type="String">é mto eficiente porem não quero utiliza-lo no momento.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1461052</Data></Cell>
+			<Cell><Data ss:Type="String">O site da catho é um diferencial na hora de enviar o cv para futuros contatos.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">446554</Data></Cell>
+			<Cell><Data ss:Type="String">Cliente possui 05 IDs. Deixarei o nº3988062 ativo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1505005</Data></Cell>
+			<Cell><Data ss:Type="String">bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">900855</Data></Cell>
+			<Cell><Data ss:Type="String">muito bom mesmo, se eu nao estive empregado, garanto que iria assinar por mais tempo, nao somente 7 dias, mas ja foram suficientes para conhecer o site.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">206078</Data></Cell>
+			<Cell><Data ss:Type="String">Bom para áreas mais comuns de empregos.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">366640</Data></Cell>
+			<Cell><Data ss:Type="String">Oferece um bom serviço, mas pude perceber que para minha disponibilidade quase não apareceram oportunidades de estágio.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1830644</Data></Cell>
+			<Cell><Data ss:Type="String">muito bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1549194</Data></Cell>
+			<Cell><Data ss:Type="String">Um site muito bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">492846</Data></Cell>
+			<Cell><Data ss:Type="String">É bom, porém eu esperava mais.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1324854</Data></Cell>
+			<Cell><Data ss:Type="String">Na verdade achei uma propaganda enganosa deste site, onde não tive nenhum contato de emprego, acho q meu C.V. não seja tão ruim assim.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">480039</Data></Cell>
+			<Cell><Data ss:Type="String">A navegação no site é complicada.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">935739</Data></Cell>
+			<Cell><Data ss:Type="String">NÃO TENHO O QUE DIZER POIS NEM CONSEGUI EMPREGO E NEM POSSO PAGAR A MENSALIDADE</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1377965</Data></Cell>
+			<Cell><Data ss:Type="String">Um bom site para determinadas áreas.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">582201</Data></Cell>
+			<Cell><Data ss:Type="String">eu gosto da catho só estou cancelando pois felizmente consegui emprego.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479623</Data></Cell>
+			<Cell><Data ss:Type="String">minhas condições financeiras</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1489448</Data></Cell>
+			<Cell><Data ss:Type="String">muito bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">929900</Data></Cell>
+			<Cell><Data ss:Type="String">Eficiente</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">504784</Data></Cell>
+			<Cell><Data ss:Type="String">bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2212993</Data></Cell>
+			<Cell><Data ss:Type="String">Bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">297625</Data></Cell>
+			<Cell><Data ss:Type="String">Muito organizado</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1377995</Data></Cell>
+			<Cell><Data ss:Type="String">Infelizmente sinto que a Catho foca mais em profissionais que tenham atuado em multinacionais, não dando muita importância para profissionais que tenham atuado em empresas menores.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">410972</Data></Cell>
+			<Cell><Data ss:Type="String">O site só me parece válido com as  pro-fissões da moda , onde encontramos al-gumas boas ofertas.     Muito confuso a análise da oportunidade colocada por vocês.    Os textos das oportunidades  são dúbios, não demonstrando a realidade das vagas.    A pré-qualificação não dá a chance de conseguirmos chegar a uma entrevista(o que é contrário aos textos sobre o assunto do seu próprio site, onde podemos ler que o currículo é uma isca!!!!    Muito confuso a definição das áreas de atuação. Ex. Vendedor Representante não aparece em comercial e sim em Tecnico-Comercial. O texto da vaga não encaminha para área tecnica-comercial e sim somente comercial. Aparece engenheiros na área técnica(2º grau), etc,etc,etc...    Os salários da pesquisas de vocês quase sempre não batem com a realidade.     Textos como Empresa lider no seu segmento(?), Área de atuação - Outras(?),salário a combinar(?), Nome da Empresa Confidencial(?), fica muito difícil de uma análise detalhada. As vezes pode ser até uma boa empresa, onde o currículo se encaixa(não como vocês acham - como uma luva!!!) em alguns pontos, enfrentamos ainda a pré-seleção????????</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">266960</Data></Cell>
+			<Cell><Data ss:Type="String">cliente possui vários cadastros e não quer efetuar o pagamento.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1221214</Data></Cell>
+			<Cell><Data ss:Type="String">é um site muito, vou recomendar para meus amigos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1221616</Data></Cell>
+			<Cell><Data ss:Type="String">ok</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">642108</Data></Cell>
+			<Cell><Data ss:Type="String">O serviço parece interessante, mas não é possível ter certeza se os currículos foram mesmo enviados. Como não obtive resposta de nenhuma empresa a qual enviei o currículo, estou cancelando o serviço.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3076218</Data></Cell>
+			<Cell><Data ss:Type="String">NÃO TENHO MUITO O QUE FALAR.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">637220</Data></Cell>
+			<Cell><Data ss:Type="String">È um bom site de emprego,só que deveria ser mais explicativo na busca de uma vaga específica.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1802310</Data></Cell>
+			<Cell><Data ss:Type="String">bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">864117</Data></Cell>
+			<Cell><Data ss:Type="String">É um bom site, uma ferramenta muito útil para quem está procurando uma nova colocação no mercado de trabalho</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">901487</Data></Cell>
+			<Cell><Data ss:Type="String">ainda não sei</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1112250</Data></Cell>
+			<Cell><Data ss:Type="String">Pra mim não ajudou em nada nenhum contato.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1010887</Data></Cell>
+			<Cell><Data ss:Type="String">Esse site da catho e o melhor lugar para deixar o curriculum para quem procura uma oportunidade no mercado, e muito bom mesmo.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7835</Data></Cell>
+			<Cell><Data ss:Type="String">Bom  Porém é muito caro R$30 por 1 mês</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1626288</Data></Cell>
+			<Cell><Data ss:Type="String">Sem comentários</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">611026</Data></Cell>
+			<Cell><Data ss:Type="String">È uma empresa vencedora, eu só estou me desligando porque eu ganho pouco e preciso guardar dinheiro</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">214450</Data></Cell>
+			<Cell><Data ss:Type="String">Muito bom.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">476927</Data></Cell>
+			<Cell><Data ss:Type="String">Prefiro não avaliar momentaneamente.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">816057</Data></Cell>
+			<Cell><Data ss:Type="String">na minha opininhão o site me parece seguro e eficaz,porém na minha condição financeira não posso arcar com uma conta extra no fim do mês</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">84945</Data></Cell>
+			<Cell><Data ss:Type="String">GOSTARIA DE CANCELAR TEMPORARIAMENTE A MENSALIDADE DA CATHO.  AGUARDO RETORNO.     ASSSINANTE : ELAINE MARIA ROCHA ANDRADE      GRATA  ELAINE</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1511963</Data></Cell>
+			<Cell><Data ss:Type="String">gostei muito é eficiente mas não me favoreceu em muita coisa</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">258314</Data></Cell>
+			<Cell><Data ss:Type="String">A prestação do serviço foi satisfatoria.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1634381</Data></Cell>
+			<Cell><Data ss:Type="String">bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">625448</Data></Cell>
+			<Cell><Data ss:Type="String">tem que melhorar, nao recebir nenhum retorno...</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">37925</Data></Cell>
+			<Cell><Data ss:Type="String">ADOREI E A PRÓXIMA VEZ QUE PRECISAR COM CERTEZA SEI ONDE PROCURAR EMPREGO.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">592815</Data></Cell>
+			<Cell><Data ss:Type="String">Mandei 168 corriculos e só me responderam 2 empresas.Ainda não consegui o emprego.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3021442</Data></Cell>
+			<Cell><Data ss:Type="String">bom, mas para mim não foi util</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">761275</Data></Cell>
+			<Cell><Data ss:Type="String">Não fui contatada</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">77234</Data></Cell>
+			<Cell><Data ss:Type="String">ÓTIMO ME AJUDOU MUITO.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">357022</Data></Cell>
+			<Cell><Data ss:Type="String">Muito bom mas não recebi nenhum telefonema apesar de ter enviado CURRICULUM para umas 10 a 15 oportunidades</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">901577</Data></Cell>
+			<Cell><Data ss:Type="String">Tem um ótimo trabalho.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">575545</Data></Cell>
+			<Cell><Data ss:Type="String">NADA A DECLARAR</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">567521</Data></Cell>
+			<Cell><Data ss:Type="String">Muito organizado.Pretendo retornar logo mais seja possível.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332190</Data></Cell>
+			<Cell><Data ss:Type="String">cliente solicitou cancelar, o cadastro se encontra como INclusão Imcompleta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1782972</Data></Cell>
+			<Cell><Data ss:Type="String">Sem comentários!!!!!!!</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">577055</Data></Cell>
+			<Cell><Data ss:Type="String">Muito bom, mas como estou desempregado não posso dispor de valores neste momento .</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1819232</Data></Cell>
+			<Cell><Data ss:Type="String">bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1691658</Data></Cell>
+			<Cell><Data ss:Type="String">não supriu minha expectativa</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1174333</Data></Cell>
+			<Cell><Data ss:Type="String">bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1832965</Data></Cell>
+			<Cell><Data ss:Type="String">Otimo site, porem não disponibilsa vagas no meu ramo de trabalho</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">540553</Data></Cell>
+			<Cell><Data ss:Type="String">infelizmente nao obtive nenhum contato portanto decidi cancelar.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">422833</Data></Cell>
+			<Cell><Data ss:Type="String">Assino a Catho a um longo tempo, mas somente consegui um emprego quando reclamei que era assinante ja a algum tempo e não era contatado por nenhuma empresa, apesar de ter um curriculo rasoavel.ooincidencia ou não, apos a reclamação fui contatado e contratado, de qualquer forma agradeço esta oportunidade. IVAN CALDAS</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">123164</Data></Cell>
+			<Cell><Data ss:Type="String">Cliente possui outro cadastro ativo no site 1985927</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">277244</Data></Cell>
+			<Cell><Data ss:Type="String">Muito bem organizado.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1425535</Data></Cell>
+			<Cell><Data ss:Type="String">Não sei se realmente as vagas existem</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1424811</Data></Cell>
+			<Cell><Data ss:Type="String">Esperava bem mais do site Catho Online.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1161780</Data></Cell>
+			<Cell><Data ss:Type="String">Não gostei, pois não consegui emprego</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">270180</Data></Cell>
+			<Cell><Data ss:Type="String">Pareceu-me ser muito útil e sério, já que fui avisada de minha opção de cancelamento com antecedência e não fui surpreendida, como é comum, por propaganda enganosa. Resolvi utilizar a semana gratuita como experiência, mas pretendo testar novamente quando realmente precisar. Por enquanto, valeu!</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">471816</Data></Cell>
+			<Cell><Data ss:Type="String">ASSINEI O CATO DURANTE 3 MESES E A ÚNICA EMPRESA QUE ME LIGOU FOI UMA Ñ CONFIDENCIAL, SENDO ASSIM Ñ VOU MAIS ASSINAR POIS ACHO QUE Ñ  DERAM UMA ATENÇÃO ESPECIAL PARA MEU CURRICULO E MINHA RECOLOCAÇÃO NO MERCADO.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">648160</Data></Cell>
+			<Cell><Data ss:Type="String">pode ser melhor</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">926453</Data></Cell>
+			<Cell><Data ss:Type="String">Achei interessante a possibilidade de poder estar consciente de vagas em todos os estados, possibilitando maiores contatos e mudanças. Para a minha área de trabalho é mais difícil haver vagas disponíveis.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">704007</Data></Cell>
+			<Cell><Data ss:Type="String">Bom site, porem deveria ter preços mais acessiveis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">719065</Data></Cell>
+			<Cell><Data ss:Type="String">Muito útil, mas, poderia filtrar com mais precisão as informações que o usuário quer sobre novas oportunidades. (Muitas informações sem desnecessárias)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">507858</Data></Cell>
+			<Cell><Data ss:Type="String">Muito bom. Pra alguém como eu que trabalha como autônomo é um excelente meio de divulgação.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2366077</Data></Cell>
+			<Cell><Data ss:Type="String">Empresa que desenvolve bons serviços em divulgação de curriculuns e relocação de profissionais.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1353987</Data></Cell>
+			<Cell><Data ss:Type="String">Achei muito bom o site</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1664753</Data></Cell>
+			<Cell><Data ss:Type="String">Já funcionou comigo antes, mas dessa vez enviei vários currículos e não recebi nenhum contato.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">804463</Data></Cell>
+			<Cell><Data ss:Type="String">Gosto do trabalho   mas consegui por   outros meios meu   trabalho</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">262995</Data></Cell>
+			<Cell><Data ss:Type="String">É bom, mas nem sempre dá resultados, a minha assinatura é antiga e mesmo quando enviei muitos currículos até para fora de minha cidade, não obtive oportunidades de emprego e nem ao menos contatos das empresas.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">211253</Data></Cell>
+			<Cell><Data ss:Type="String">É um ótimo site, mas o nosso pais esta passando por uma crise muito grande, eu nunca fiquei desempregado por mais de 2 meses e agora cheguei a ficar por 1 ano.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">567604</Data></Cell>
+			<Cell><Data ss:Type="String">não recebi oferta de emprego, e nem um email da catho para conversar comigo.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">269459</Data></Cell>
+			<Cell><Data ss:Type="String">VENHO INFORMAR QUE NÃO É MEU INTERESSE CONTINUAR COM OS SEUS   SERVIÇOS</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">65325</Data></Cell>
+			<Cell><Data ss:Type="String">Pouco retorno.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1776677</Data></Cell>
+			<Cell><Data ss:Type="String">O site é otimo oferece muitas oportunidades mas não é o que procuro. vocês estão de parabéns.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2015780</Data></Cell>
+			<Cell><Data ss:Type="String">não tenho nada a dizer</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">901347</Data></Cell>
+			<Cell><Data ss:Type="String">nada a declarar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">627102</Data></Cell>
+			<Cell><Data ss:Type="String">não achei vaga de vigia</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">378168</Data></Cell>
+			<Cell><Data ss:Type="String">Gostei muito deste sistema. Vocês são muito atenciosaos com os assinantes.  Só que no momento não posso pagar a assinatura, mas assim que puder com certeza volterei a assinar (espero conseguir emprego antes, mas caso contrário volteremos a nos comunicar.  Um abraço a toda a equipe.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">581207</Data></Cell>
+			<Cell><Data ss:Type="String">Como estou cadastrado há mais de um mês e não recebi nenhuma  proposta de entrevista vou tentar a concorrente para ver se eles conseguem me reposicionar novamente no mercado.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1473727</Data></Cell>
+			<Cell><Data ss:Type="String">Para o Sudeste, bom.  Para Fortaleza e região Nordeste o site é muito limitado.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">236656</Data></Cell>
+			<Cell><Data ss:Type="String">é muito bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3072663</Data></Cell>
+			<Cell><Data ss:Type="String">Não fiquei muito satisfeito com o retorno sobre as vagas que me candidatei, por esse e alguns outros motivos estarei cancelando minha assinatura que futuramente poderei talvez reativar.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1359735</Data></Cell>
+			<Cell><Data ss:Type="String">Execelente</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">170599</Data></Cell>
+			<Cell><Data ss:Type="String">Para algumas pessoa funciona, para outras não.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">959153</Data></Cell>
+			<Cell><Data ss:Type="String">Infelizmente nenhuma empresa me contactou, por isso eu não me interessei muito pelo site.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">160134</Data></Cell>
+			<Cell><Data ss:Type="String">infelismente , não tive nenhum retorno do site</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1214749</Data></Cell>
+			<Cell><Data ss:Type="String">Site muito poluido.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2044808</Data></Cell>
+			<Cell><Data ss:Type="String">Atendeu minhas necessidades.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1144554</Data></Cell>
+			<Cell><Data ss:Type="String">eu aconselho a todos que estão procurando emprego</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">83196</Data></Cell>
+			<Cell><Data ss:Type="String">Sou assinante há 02 anos e estou plenamente satisfeito. Acredito que as melhores oportunidades estão disponíveis aqui. Parabéns pelo trabalho e não pensarei duas vezes em reativar minha assinatura caso necessite buscar uma nova coloção no mercado.    Saudações,    marcelo Marçal</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">537388</Data></Cell>
+			<Cell><Data ss:Type="String">Site incrível que proporciona oportunidades de emprego.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1353558</Data></Cell>
+			<Cell><Data ss:Type="String">não recebi nehum contato</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1484250</Data></Cell>
+			<Cell><Data ss:Type="String">bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">574069</Data></Cell>
+			<Cell><Data ss:Type="String">Bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">501095</Data></Cell>
+			<Cell><Data ss:Type="String">muito importante, serio e interessante</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">626400</Data></Cell>
+			<Cell><Data ss:Type="String">Acho muito caro a assinatura, como um desempregado tem condições de pagar para arrumar emprego?</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">432588</Data></Cell>
+			<Cell><Data ss:Type="String">Muito claro e objetivo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">197169</Data></Cell>
+			<Cell><Data ss:Type="String">Um sistema muito eficaz, não posso continuar por motivo de falta de dinheiro.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">96704</Data></Cell>
+			<Cell><Data ss:Type="String">Estou prestes a conseguir um novo emprego, onde estou com algumas proposta, sendo algumas delas através da Catho Online.  Gostei muito dos serviços prestados e com certeza será um meio para conseguir me recolocar, caso precise novamente.  Na verdade, gostaria de nunca mais ter que usar este tipo de serviço, mas na vida estamos sujeitos a todo tipo de desafio.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">366215</Data></Cell>
+			<Cell><Data ss:Type="String">Interessante, mas não satisfez minhas expectativas.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">476854</Data></Cell>
+			<Cell><Data ss:Type="String">É bom, porém como estou desempregada e não tenho condições  financeiras de pagar a mensalidade estou efetuando o cancelamento.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">551285</Data></Cell>
+			<Cell><Data ss:Type="String">Não tenho dinheiro</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">323649</Data></Cell>
+			<Cell><Data ss:Type="String">Foram poucas as vagas específicas referentes a meu cargo.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">785730</Data></Cell>
+			<Cell><Data ss:Type="String">Uma boa tentativa.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">886831</Data></Cell>
+			<Cell><Data ss:Type="String">Em primeiro lugar agradeço a força de vontade as pessoas que estiveram entrando em contato comigo para esclarecer duvidas e espero que eu encontre logo um serviço.  Garto, Marcos Aantonio da Silva.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">408758</Data></Cell>
+			<Cell><Data ss:Type="String">Gostei</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1720358</Data></Cell>
+			<Cell><Data ss:Type="String">muito bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">408903</Data></Cell>
+			<Cell><Data ss:Type="String">Gostei muito, claro que não gostaria de precisar dos serviços da mesma novamente,  mas caso isso ocorra, com certeza estarei voltando.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">58852</Data></Cell>
+			<Cell><Data ss:Type="String">Foi muito bom ter contado com vocês, mesmo que eu não tenha tido respostas para as empresas que enviei meu curriculum.  Grata,</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">499040</Data></Cell>
+			<Cell><Data ss:Type="String">Não recebi nenhum contato</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">448769</Data></Cell>
+			<Cell><Data ss:Type="String">Estou cancelando pelo fim do tempo da promoção 7 dias grátis.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1833060</Data></Cell>
+			<Cell><Data ss:Type="String">É bom devido várias vagas que é anunciado</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1460678</Data></Cell>
+			<Cell><Data ss:Type="String">Uma ótima ferramenta para quem busca melhorias profissionais.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">197692</Data></Cell>
+			<Cell><Data ss:Type="String">Engodo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">883932</Data></Cell>
+			<Cell><Data ss:Type="String">nao tenha nada a dizer</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">592745</Data></Cell>
+			<Cell><Data ss:Type="String">muito bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">253996</Data></Cell>
+			<Cell><Data ss:Type="String">Gostei</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">970682</Data></Cell>
+			<Cell><Data ss:Type="String">praticidade ñ tem melhor!!!</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1005013</Data></Cell>
+			<Cell><Data ss:Type="String">Não tenho nada contra nem nada a favor</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">80322</Data></Cell>
+			<Cell><Data ss:Type="String">Muito Bom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1806672</Data></Cell>
+			<Cell><Data ss:Type="String">nada produtivo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1170550</Data></Cell>
+			<Cell><Data ss:Type="String">NÃ£o tem organizaÃ§Ã£o do siste muito caro se nÃ£o conseguir um emprego como vou pagar essa fortuna</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">84179</Data></Cell>
+			<Cell><Data ss:Type="String">MUITO BOM</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">931717</Data></Cell>
+			<Cell><Data ss:Type="String">uma bosta, muito inutíl. e complicado para cancelar assinatura</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1448780</Data></Cell>
+			<Cell><Data ss:Type="String">bom.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1499673</Data></Cell>
+			<Cell><Data ss:Type="String">Bom !!!</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1597454</Data></Cell>
+			<Cell><Data ss:Type="String">Estive em diversas oportunidades e até pude escolhar a que mais me agradava.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1777861</Data></Cell>
+			<Cell><Data ss:Type="String">Através da Catho recebi várias oportunidades em processos seletivos, é uma empresa em que vale a pena investir, pois o retorno é certo.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">195124</Data></Cell>
+			<Cell><Data ss:Type="String">Ótimo!</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">407146</Data></Cell>
+			<Cell><Data ss:Type="String">Muitas ofertas de emprego já foram talvez preenchidas considerando-se a data do anúncio e não saíram do site</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">605674</Data></Cell>
+			<Cell><Data ss:Type="String">Não obtive contatos. Minha área de atuação (coordenador de serviços gerais) vinha com empregos para auxiliar de limpeza.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1668051</Data></Cell>
+			<Cell><Data ss:Type="String">nõa tenho certeza da qualidade da catho, estou desempregado a mais de 12 meses</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1787175</Data></Cell>
+			<Cell><Data ss:Type="String">Apesar das boas oportunidades acho q o preçoi por isso é muito elevado p/ desempregados</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">370543</Data></Cell>
+			<Cell><Data ss:Type="String">É um bom Site, porém deveria Direcionar melhor as oportunidades e pedir as empresas que especifiquem melhor os cargos disponiveis.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">463999</Data></Cell>
+			<Cell><Data ss:Type="String">Não consigui emprego pela Catho, e como estou desempregado já perdi 100 reais (Cem Reais). E como a Catho não devolve o dinheiro ou parte dele, estou saindo. Além disso existe outros sites gratuitos como o e-panelinha, que venho recebendo oportunidades e tenho enviado. Ah eu enviei um e-mail e demoraram a me responder por isso informo que não pagarei este mes, pois enviei um e-mail semana passada e só me responderam hoje 11/08/03.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1480637</Data></Cell>
+			<Cell><Data ss:Type="String">precisa melhorar o filtro de endereços das vagas mais proximas da residencia do cliente</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">956625</Data></Cell>
+			<Cell><Data ss:Type="String">ok.</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
